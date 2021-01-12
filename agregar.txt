@@ -1,8 +1,9 @@
-Modificación inicial fichero Github
+ModificaciÃ³n inicial fichero Github
 
+Alex Orquera
 Fichero creado desde master
 
 Modificado desde github
 
 
-Modificaci�n final fichero eclipse
+Modificación final fichero eclipse
