@@ -13,4 +13,4 @@ Hecho!
 
 Modificación local desde master
 
-Modificación local desde master sin actualizar repo remoto
+Modificación local desde master sin actualizar repo remoto2
