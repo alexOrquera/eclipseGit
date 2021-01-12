@@ -12,3 +12,5 @@ Solucionado problema de producción
 Hecho! 
 
 Modificación local desde master
+
+Modificación local desde master sin actualizar repo remoto
