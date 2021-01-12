@@ -11,3 +11,5 @@ Modificaciones pendientes de confirmar...
 Modificaciones desde rama fast_forward
 
 Modificaciones desde fastf2
+
+Modificado pero para commit confirmado 
